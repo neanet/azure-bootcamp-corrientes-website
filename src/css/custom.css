@@ -32,7 +32,7 @@
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-image: url('/content/images/GlobalAzureBootcamp-Corrientes-2016.jpg');
+    background-image: url('http://cdn.rawgit.com/neanet/azure-bootcamp-corrientes-website/master/src/content/images/GlobalAzureBootcamp-Corrientes-2016.jpg');
     background-size: cover;
     background-repeat:no-repeat;
 }
