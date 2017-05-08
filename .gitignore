@@ -4,7 +4,9 @@
 
 *.suo
 *applicationhost.config
+/.vs
 /.vs/config
+/src/.vs
 /src/packages
 /packages
 [Oo]bj/
