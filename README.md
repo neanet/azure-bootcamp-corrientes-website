@@ -1,6 +1,6 @@
 # azure-bootcamp-corrientes-website
-Website para el #GlobalAzure Bootcamp 2016 en #Corrientes #Argentina
+Website para el #GlobalAzure Bootcamp en #Corrientes #Argentina versiones 2016 y 2017
 
-[http://corrientes.azurebootcamp.net](http://corrientes.azurebootcamp.net)
+[https://corrientes.azurebootcamp.net](https://corrientes.azurebootcamp.net)
 O el enlace directo a 
-[http://azurebootcampcorrientes.azurewebsites.net/](http://azurebootcampcorrientes.azurewebsites.net/)
+[https://azurebootcampcorrientes.azurewebsites.net/](https://azurebootcampcorrientes.azurewebsites.net/)
